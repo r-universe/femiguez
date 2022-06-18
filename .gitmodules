@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "apsimx"]
+	path = apsimx
+	url = https://github.com/femiguez/apsimx
+	shallow = true
+	registered = true
+[submodule "nlraa"]
+	path = nlraa
+	url = https://github.com/femiguez/nlraa
+	shallow = true
+	registered = true

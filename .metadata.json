@@ -1,0 +1,10 @@
+[
+  {
+    "package": "apsimx",
+    "oncran": true
+  },
+  {
+    "package": "nlraa",
+    "oncran": true
+  }
+]
